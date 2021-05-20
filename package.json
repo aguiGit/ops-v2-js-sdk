@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ops-io/ops-v2-js-sdk"
+    "url": "https://github.com/aguiGit/ops-v2-js-sdk"
   },
   "keywords": [
     "ops",
@@ -66,7 +66,7 @@
   "author": "OPS team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ops-io/ops-v2-js-sdk"
+    "url": "https://github.com/aguiGit/ops-v2-js-sdk"
   },
-  "homepage": "https://github.com/ops-io/ops-v2-js-sdk"
+  "homepage": "https://github.com/aguiGit/ops-v2-js-sdk"
 }
